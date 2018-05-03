@@ -1,2 +1,3 @@
 # Java-Multicast-Example
-Quick and dirty example of Java Multicast sockets.
+Multicasting in Java.
+This project is currently on hold. Basic Server/Client functionality works, however implementation for specific needs will vary from project to project.
